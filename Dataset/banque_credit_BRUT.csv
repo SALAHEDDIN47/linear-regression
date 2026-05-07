@@ -1,0 +1,306 @@
+id_client,date_entree_relation,age,sexe,situation_familiale,situation_professionnelle,region,anciennete_client,revenus_annuels,taux_endettement,score_credit,type_credit,montant_credit,duree_credit_mois,taux_interet,nb_credits_actifs,nb_incidents_paiement,garantie,taux_defaut
+CLI00011,2003-10-25,32,M,Célibataire,Sans emploi,Grand Est,20.2,-500.0,27.9,664.0,Personnel,20524,12,8.31,3,2,Oui,0.5
+CLI00067,1998-10-26,65,M,Marié(e),CDI,Bretagne,25.2,71682.0,26.9,383.0,Auto,19382,60,10.47,3,0,Oui,0.5
+CLI00082,2019-05-29,47,M,Veuf/Veuve,Sans emploi,Pays de la Loire,4.6,71413.0,46.5,608.0,Consommation,136886,24,9.46,2,2,Non,0.5
+CLI00143,2005-01-05,51,M,Célibataire,CDD,Île-de-France,19.0,73645.0,32.0,669.0,Personnel,57853,24,4.17,4,1,Oui,0.5
+CLI00050,2015-11-28,49,male,Marié(e),CDI,Auvergne-Rhône-Alpes,8.1,55131.0,54.5,815.0,Immobilier,7336,12,3.12,7,0,Oui,24.03
+CLI00184,2020-08-08,45,F,Célibataire,Indépendant,Normandie,3.4,24229.0,58.7,458.0,Auto,81218,12,7.24,5,1,Oui,26.81
+CLI00052,2021-02-07,65,F,Marié(e),CDD,Pays de la Loire,2.9,91963.0,12.3,696.0,Consommation,72779,84,10.72,4,4,Oui,7.74
+CLI00108,2006-10-24,30,M,Célibataire,Fonctionnaire,Normandie,17.2,89774.0,42.1,794.0,Auto,129085,120,11.98,6,4,Oui,12.33
+CLI00114,2014-04-23,45,F,Marié(e),Indépendant,PACA,9.7,59240.0,7.6,724.0,Auto,147766,24,7.03,1,3,Oui,0.5
+CLI00003,2016-02-09,36,F,Célibataire,CDI,Hauts-de-France,7.9,104704.0,56.9,824.0,Immobilier,48925,48,1.85,1,1,Oui,0.5
+CLI00103,2008-04-24,63,M,Marié(e),Fonctionnaire,Pays de la Loire,15.7,63002.0,30.1,371.0,Consommation,149790,84,4.03,4,2,Oui,7.83
+CLI00242,2016-07-04,61,M,Célibataire,CDI,Grand Est,7.5,102471.0,14.7,812.0,Immobilier,86994,24,3.7,4,4,Oui,2.02
+CLI00051,2005-07-07,28,M,Célibataire,CDI,Hauts-de-France,18.5,60944.0,45.0,398.0,Personnel,108677,84,8.75,6,2,Non,21.5
+CLI00016,2000-10-25,24,F,Célibataire,Sans emploi,Grand Est,23.2,78100.0,21.8,532.0,Auto,48303,36,8.66,5,0,Oui,2.51
+CLI00033,2012-07-05,37,F,Marié(e),CDI,Normandie,11.5,71932.0,54.1,419.0,Immobilier,29519,84,3.69,7,0,Non,27.07
+CLI00153,2004-03-19,28,M,Marié(e),Retraité,Pays de la Loire,19.8,105731.0,49.8,383.0,Immobilier,64676,36,3.92,7,5,Non,29.88
+CLI00008,2010-09-17,40,F,Marié(e),CDI,Normandie,13.3,,12.1,659.0,Auto,126101,120,8.09,7,1,Oui,33.7
+CLI00125,1997-04-27,35,M,Marié(e),Fonctionnaire,Nouvelle-Aquitaine,26.7,105505.0,53.6,,Auto,13666,24,7.56,3,5,Oui,0.5
+CLI00148,2017-03-16,64,F,Marié(e),CDI,Normandie,6.8,82291.0,11.3,410.0,Personnel,138554,60,4.72,5,1,Non,16.15
+CLI00037,2021-05-27,58,F,Célibataire,CDI,Bretagne,2.6,88080.0,18.4,584.0,Immobilier,10408,36,4.3,2,2,Oui,0.5
+CLI00083,2019-08-09,46,M,Célibataire,CDI,Nouvelle-Aquitaine,4.4,74800.0,42.1,819.0,Auto,120033,36,8.23,1,4,Oui,0.5
+CLI00243,2011-09-17,22,M,Divorcé(e),Indépendant,Normandie,12.3,31234.0,38.5,612.0,Consommation,61133,12,8.1,5,0,,14.19
+CLI00299,2001-06-01,54,F,Célibataire,CDI,Normandie,22.6,999999.0,49.8,492.0,Consommation,130995,48,10.29,5,3,Non,5.93
+CLI00135,1997-12-02,36,F,Célibataire,CDI,Île-de-France,26.1,99818.0,9.6,,Immobilier,99270,120,2.18,1,0,Oui,0.5
+CLI00199,2000-07-08,44,M,Marié(e),CDI,Île-de-France,23.5,95735.0,38.0,670.0,Auto,59771,84,8.21,2,4,Oui,0.5
+CLI00104,2004-02-12,60,F,Divorcé(e),Indépendant,Occitanie,19.9,24254.0,52.4,573.0,Personnel,39560,84,6.38,5,2,Non,14.61
+CLI00057,2011-10-23,57,F,Marié(e),Fonctionnaire,Grand Est,12.2,71871.0,51.6,374.0,Immobilier,51197,36,2.95,2,0,Oui,0.5
+CLI00091,2018-02-08,45,F,Célibataire,CDI,Occitanie,5.9,73479.0,48.5,,Auto,96751,48,6.32,2,0,Oui,0.5
+CLI00274,2016-09-15,59,M,Célibataire,CDD,Pays de la Loire,7.3,20219.0,,516.0,Immobilier,64129,120,3.59,7,4,,35.0
+CLI00213,2010-11-29,38,M,Marié(e),CDI,Occitanie,13.1,35260.0,43.2,674.0,Immobilier,92955,24,2.13,2,4,Non,0.5
+CLI00093,2010-11-29,65,F,Marié(e),Retraité,Nouvelle-Aquitaine,13.1,105369.0,29.3,754.0,Consommation,42219,48,6.87,6,4,Non,15.02
+CLI00134,1995-08-15,36,M,Marié(e),CDI,Occitanie,28.4,109865.0,53.5,405.0,Immobilier,126008,84,2.17,1,1,Non,0.5
+CLI00275,2015-09-16,61,M,Divorcé(e),CDD,PACA,8.3,57809.0,13.3,605.0,Immobilier,119130,84,4.2,3,4,Oui,3.12
+CLI00064,2013-10-23,50,M,Célibataire,CDI,  Occitanie  ,10.2,95709.0,5.0,739.0,Auto,25103,84,8.13,4,3,Oui,0.5
+CLI00149,2012-05-29,50,F,Marié(e),CDI,PACA,11.6,97104.0,64.3,550.0,Personnel,29442,24,4.79,5,3,Non,7.3
+CLI00172,2006-05-31,34,M,Divorcé(e),CDI,Hauts-de-France,17.6,85067.0,35.9,587.0,Auto,83623,12,8.44,6,1,Oui,13.47
+CLI00223,2016-07-04,15,M,Célibataire,Indépendant,Occitanie,7.5,95149.0,-12.0,444.0,Auto,125674,48,6.79,2,5,Non,0.82
+CLI00156,2013-07-05,23,M,Divorcé(e),CDI,Grand Est,10.5,18055.0,11.3,613.0,Auto,98607,60,10.54,3,4,Non,13.05
+CLI00044,1998-07-09,46,F,Célibataire,Sans emploi,  Grand Est  ,25.5,76017.0,41.4,378.0,Immobilier,15789,60,3.53,3,5,Non,0.5
+CLI00138,2003-07-08,34,F,Célibataire,CDI,Auvergne-Rhône-Alpes,20.5,28488.0,20.2,308.0,Immobilier,146467,36,1.79,7,1,Non,35.0
+CLI00238,2000-12-01,54,F,Divorcé(e),Fonctionnaire,Nouvelle-Aquitaine,23.1,97579.0,10.6,660.0,Immobilier,121739,48,1.89,2,2,Non,0.5
+CLI00285,2021-04-21,56,M,Marié(e),Sans emploi,Hauts-de-France,2.7,,35.6,450.0,Immobilier,136132,60,3.4,7,3,Oui,35.0
+CLI00107,2022-02-07,28,M,Célibataire,CDI,Normandie,1.9,98719.0,16.4,665.0,Immobilier,137717,36,4.11,5,2,Oui,14.09
+CLI00027,1994-08-15,43,M,Célibataire,Fonctionnaire,Nouvelle-Aquitaine,29.4,71330.0,42.7,491.0,Personnel,16302,84,11.96,5,5,Oui,10.87
+CLI00276,2012-11-28,41,M,Marié(e),CDI,Occitanie,11.1,,44.8,484.0,Immobilier,148184,24,3.88,6,4,Oui,32.01
+CLI00097,2010-07-06,38,F,Célibataire,CDD,Grand Est,13.5,91477.0,33.9,800.0,Auto,5126,12,11.45,5,3,Oui,2.53
+CLI00224,1996-09-20,27,F,,CDI,Hauts-de-France,27.3,74138.0,48.7,327.0,Consommation,125307,84,3.93,4,2,Oui,0.51
+CLI00058,2022-01-01,61,M,Marié(e),CDD,Normandie,2.0,37198.0,12.3,429.0,Immobilier,130733,60,3.04,7,4,Non,35.0
+CLI00004,2006-02-11,64,F,Divorcé(e),CDI,Île-de-France,17.9,64540.0,41.5,,Consommation,142023,36,9.55,2,5,Non,2.69
+CLI00280,2015-03-17,46,M,Célibataire,Indépendant,Grand Est,8.8,81076.0,15.0,794.0,Professionnel,137596,84,5.02,3,5,Non,0.5
+CLI00045,2019-07-04,35,F,Célibataire,Retraité,PACA,4.5,79877.0,13.4,758.0,Consommation,102720,24,9.71,2,2,Non,0.5
+CLI00260,2014-10-23,53,M,Divorcé(e),CDI,Grand Est,9.2,85584.0,55.4,418.0,Personnel,106332,60,6.75,6,5,Oui,25.24
+CLI00171,2016-02-09,48,M,Marié(e),Indépendant,Auvergne-Rhône-Alpes,7.9,56638.0,10.0,608.0,Immobilier,53770,24,2.19,5,4,Oui,13.62
+CLI00157,2015-10-23,63,F,Marié(e),CDD,Hauts-de-France,8.2,,,321.0,Personnel,69077,12,4.18,6,1,Non,35.0
+CLI00261,1994-02-14,30,F,Célibataire,CDI,Hauts-de-France,29.9,96477.0,55.0,334.0,Immobilier,94563,36,3.23,3,1,Oui,0.5
+CLI00151,2005-04-25,34,F,Marié(e),CDI,Hauts-de-France,18.7,97714.0,7.9,306.0,Consommation,7079,24,8.56,4,3,Oui,3.91
+CLI00197,2017-03-16,23,F,Veuf/Veuve,Fonctionnaire,Auvergne-Rhône-Alpes,6.8,30910.0,10.7,717.0,Consommation,17175,60,6.5,3,0,Oui,1.74
+CLI00271,2018-07-04,32,F,Marié(e),CDI,Pays de la Loire,5.5,100180.0,28.1,515.0,Immobilier,121021,120,3.64,5,3,Oui,13.33
+CLI00087,2011-09-17,22,M,Veuf/Veuve,Sans emploi,PACA,12.3,88390.0,18.2,648.0,Auto,78319,84,6.18,6,3,Oui,19.64
+CLI00005,1994-08-15,29,M,Marié(e),CDI,Auvergne-Rhône-Alpes,29.4,38384.0,35.4,412.0,Immobilier,92388,60,4.32,1,1,Oui,0.5
+CLI00062,2010-08-11,63,F,Marié(e),CDI,Occitanie,13.4,19252.0,21.7,838.0,Auto,45631,24,4.4,3,4,Non,6.27
+CLI00041,2016-01-03,60,M,Divorcé(e),Indépendant,Nouvelle-Aquitaine,8.0,54187.0,39.5,306.0,Immobilier,136994,60,2.71,5,5,Oui,24.66
+CLI00206,2007-05-31,65,F,Divorcé(e),CDI,Bretagne,16.6,80981.0,5.8,819.0,Professionnel,9425,120,8.1,5,4,Oui,6.9
+CLI00187,1998-07-09,53,M,Marié(e),CDI,Occitanie,25.5,22632.0,33.5,815.0,Immobilier,77258,12,4.47,7,1,Oui,27.76
+CLI00007,1996-10-26,60,M,Marié(e),CDD,PACA,27.2,93880.0,8.8,316.0,Immobilier,63596,84,1.73,1,0,Non,0.5
+CLI00077,2010-01-04,61,F,Célibataire,CDI,Occitanie,14.0,41386.0,15.2,,Auto,131205,24,9.71,4,5,Oui,6.83
+CLI00127,2023-01-01,22,F,Veuf/Veuve,Indépendant,Auvergne-Rhône-Alpes,1.0,41061.0,56.6,415.0,Auto,41368,12,8.44,6,4,Oui,35.0
+CLI00218,2008-05-30,27,M,Marié(e),Indépendant,Pays de la Loire,15.6,,15.8,313.0,Consommation,19596,120,4.18,4,4,Non,6.82
+CLI00267,2021-10-20,41,M,Divorcé(e),CDI,Normandie,2.2,65362.0,55.5,311.0,Professionnel,58276,12,7.66,5,1,Non,19.62
+CLI00234,2016-01-03,41,F,Divorcé(e),CDI,Grand Est,8.0,1.0,49.6,,Immobilier,28752,36,3.38,7,3,Oui,35.0
+CLI00269,2020-05-27,54,F,,CDI,Île-de-France,3.6,77383.0,35.1,575.0,Immobilier,94599,60,2.72,5,3,Non,17.09
+CLI00270,2013-08-10,45,M,Célibataire,CDI,Île-de-France,10.4,83545.0,12.5,541.0,Immobilier,16046,60,1.93,1,5,Non,0.5
+CLI00165,2007-04-25,32,M,,Retraité,Grand Est,16.7,23126.0,,836.0,Immobilier,124614,12,2.08,4,0,Non,2.81
+CLI00073,2013-11-28,36,F,Veuf/Veuve,CDI,Nouvelle-Aquitaine,10.1,73393.0,50.3,461.0,Immobilier,129714,24,2.7,4,1,Oui,5.34
+CLI00163,2011-03-18,41,M,Célibataire,Indépendant,Normandie,12.8,22621.0,61.5,386.0,Immobilier,16485,12,2.68,4,5,Non,18.99
+CLI00208,1994-12-03,53,F,Marié(e),CDI,Grand Est,29.1,72553.0,45.3,777.0,Consommation,7198,48,5.37,1,0,Oui,0.5
+CLI00102,2004-09-18,26,F,Célibataire,Indépendant,Île-de-France,19.3,,13.0,363.0,Immobilier,139869,24,1.57,6,3,Non,30.57
+CLI00120,2013-04-23,48,F,Veuf/Veuve,Fonctionnaire,Pays de la Loire,10.7,46732.0,14.0,762.0,Immobilier,45738,60,3.27,4,5,Oui,4.08
+CLI00298,2012-05-29,38,M,Marié(e),CDI,PACA,11.6,83441.0,46.7,474.0,Immobilier,96748,60,1.81,5,4,Non,11.95
+CLI00085,2002-06-01,50,M,Divorcé(e),Fonctionnaire,Bretagne,21.6,60318.0,18.7,498.0,Immobilier,95474,12,2.17,2,1,Oui,0.5
+CLI00137,1999-12-02,63,F,Divorcé(e),Retraité,Bretagne,24.1,41321.0,60.8,616.0,Personnel,24097,24,8.56,6,3,Non,21.33
+CLI00296,2009-04-24,28,M,Célibataire,CDI,Auvergne-Rhône-Alpes,14.7,119834.0,105.3,794.0,Personnel,28051,48,6.98,2,0,Oui,0.5
+CLI00047,2007-03-19,47,F,Marié(e),CDD,Auvergne-Rhône-Alpes,16.8,67922.0,,781.0,Immobilier,49028,36,3.97,7,1,Non,21.59
+CLI00115,1994-08-15,58,M,Marié(e),Fonctionnaire,  Occitanie  ,29.4,101807.0,27.3,691.0,Immobilier,61264,12,3.25,2,4,Oui,0.5
+CLI00116,2018-04-22,56,F,Célibataire,CDI,Bretagne,5.7,119570.0,21.0,513.0,Professionnel,62545,60,9.11,6,4,Non,23.76
+CLI00207,2002-09-19,47,m,Célibataire,Retraité,Auvergne-Rhône-Alpes,21.3,102659.0,64.5,399.0,Immobilier,21032,84,1.55,7,4,Oui,25.97
+CLI00175,2016-07-04,60,Femme,Marié(e),Fonctionnaire,Pays de la Loire,7.5,53854.0,18.7,651.0,Immobilier,80629,120,3.98,2,2,Oui,0.5
+CLI00055,2017-10-21,35,M,Célibataire,Sans emploi,Pays de la Loire,6.2,60808.0,,570.0,Immobilier,37265,84,2.25,2,5,Oui,1.49
+CLI00113,2020-09-14,44,M,Célibataire,Sans emploi,Auvergne-Rhône-Alpes,3.3,,8.9,,Immobilier,73244,120,2.68,7,2,Oui,35.0
+CLI00154,2012-02-10,43,M,Divorcé(e),CDI,Normandie,11.9,1.0,44.5,507.0,Professionnel,95397,120,9.92,7,0,Oui,35.0
+CLI00067,1998-10-26,65,M,Marié(e),CDI,Bretagne,25.2,71682.0,26.9,383.0,Auto,19382,60,10.47,3,0,Oui,0.5
+CLI00248,1999-10-26,52,F,Divorcé(e),Indépendant,Grand Est,24.2,64514.0,16.6,464.0,Personnel,6622,24,6.02,2,3,,0.5
+CLI00038,2017-04-22,28,M,Divorcé(e),CDD,Auvergne-Rhône-Alpes,6.7,55744.0,62.4,526.0,Immobilier,64379,120,4.25,7,3,Oui,35.0
+CLI00257,2021-04-21,33,M,Marié(e),CDI,Occitanie,2.7,67376.0,37.3,319.0,Consommation,79182,24,9.32,5,1,Non,20.27
+CLI00013,2016-09-15,57,M,Marié(e),Retraité,Île-de-France,7.3,47189.0,19.3,766.0,Consommation,130501,120,4.22,5,5,Non,17.18
+CLI00066,1994-07-10,47,female,Veuf/Veuve,Retraité,Auvergne-Rhône-Alpes,29.5,110234.0,41.2,602.0,Immobilier,131108,36,4.4,2,0,Oui,0.5
+CLI00010,2004-07-07,32,F,Célibataire,CDI,Auvergne-Rhône-Alpes,19.5,18404.0,25.5,747.0,Immobilier,91740,120,2.71,6,3,Oui,23.65
+CLI00212,1998-10-26,32,F,Marié(e),CDD,PACA,25.2,94090.0,37.6,301.0,Immobilier,28236,36,2.38,5,2,Oui,9.38
+CLI00151,2005-04-25,34,F,Marié(e),CDI,Hauts-de-France,18.7,97714.0,7.9,306.0,Consommation,7079,24,8.56,4,3,Oui,3.91
+CLI00145,2004-04-25,44,F,Célibataire,Indépendant,Grand Est,19.7,70796.0,58.4,617.0,Immobilier,67823,48,1.65,3,0,Oui,0.5
+CLI00025,2007-03-19,54,M,Célibataire,CDD,  Pays de la Loire  ,16.8,22809.0,28.8,541.0,Consommation,97263,12,8.02,2,1,Non,0.5
+CLI00272,2004-05-31,29,F,Marié(e),CDD,PACA,19.6,105958.0,43.6,550.0,Immobilier,9853,12,2.38,2,1,Oui,0.5
+CLI00178,2016-07-04,48,M,Célibataire,CDI,Hauts-de-France,7.5,56518.0,5.6,,Consommation,110947,60,3.69,1,1,Oui,0.5
+CLI00112,2020-10-20,54,M,Marié(e),CDI,Normandie,3.2,42071.0,16.9,600.0,Auto,124719,84,4.48,4,2,Oui,13.47
+CLI00281,2011-05-30,50,M,Célibataire,CDI,Grand Est,12.6,37216.0,15.9,726.0,Consommation,105424,48,10.28,5,0,Oui,8.97
+CLI00215,2011-10-23,45,M,Marié(e),Indépendant,Île-de-France,12.2,46024.0,,617.0,Consommation,99914,36,7.95,1,2,Oui,0.5
+CLI00111,2013-05-29,55,F,Célibataire,Sans emploi,Auvergne-Rhône-Alpes,10.6,40415.0,42.8,310.0,Auto,105158,24,6.91,1,3,Non,3.39
+CLI00227,2002-08-14,24,M,Marié(e),Indépendant,Grand Est,21.4,103655.0,10.5,528.0,Personnel,95093,120,7.61,7,5,Non,27.28
+CLI00266,1995-03-22,24,F,Marié(e),CDI,Auvergne-Rhône-Alpes,28.8,50254.0,,505.0,Personnel,16555,48,6.99,1,2,Oui,0.5
+CLI00196,2007-03-19,23,M,Marié(e),CDI,Normandie,16.8,97905.0,40.9,634.0,Professionnel,89458,60,8.5,2,4,Oui,0.5
+CLI00209,2003-03-20,27,F,Divorcé(e),Sans emploi,PACA,20.8,66447.0,24.0,597.0,Auto,149931,120,8.82,1,5,Oui,0.5
+CLI00049,2011-02-10,41,F,Veuf/Veuve,CDI,PACA,12.9,50049.0,62.2,584.0,Immobilier,37154,36,4.0,2,4,Non,0.5
+CLI00017,2022-03-15,43,M,Veuf/Veuve,CDI,Grand Est,1.8,116142.0,61.5,523.0,Immobilier,44711,48,2.56,6,2,,20.4
+CLI00119,1999-09-20,43,F,Divorcé(e),Fonctionnaire,Nouvelle-Aquitaine,24.3,93697.0,21.0,345.0,Immobilier,18224,12,1.62,7,1,Oui,23.57
+CLI00246,2007-11-30,46,M,Célibataire,CDI,Bretagne,16.1,28954.0,57.9,406.0,Auto,126829,48,11.54,5,3,Oui,22.01
+CLI00142,1999-04-27,25,M,Célibataire,CDI,Pays de la Loire,24.7,28478.0,28.2,715.0,Immobilier,24816,60,1.75,1,3,Non,0.5
+CLI00219,2016-08-09,43,M,Célibataire,Indépendant,Grand Est,7.4,19605.0,8.2,803.0,Auto,137351,60,7.26,5,0,Oui,14.64
+CLI00015,2006-08-13,45,M,Marié(e),Fonctionnaire,Normandie,17.4,36384.0,54.5,754.0,Immobilier,19060,12,2.27,7,0,Oui,26.03
+CLI00159,2003-02-12,49,F,Marié(e),Indépendant,PACA,20.9,91686.0,28.3,814.0,Professionnel,142717,36,8.86,2,4,Oui,0.5
+CLI00034,2011-11-29,36,M,Marié(e),CDI,Pays de la Loire,12.1,35100.0,24.4,509.0,Personnel,85910,120,9.3,2,4,Oui,3.06
+CLI00237,2001-08-14,62,F,,CDI,Bretagne,22.4,59427.0,14.1,569.0,Consommation,56693,24,8.24,5,0,Oui,6.41
+CLI00031,2015-08-10,63,M,Célibataire,CDI,Île-de-France,8.4,52816.0,13.5,,Auto,101646,36,6.1,7,0,Oui,35.0
+CLI00181,2008-11-29,54,M,Célibataire,CDD,Bretagne,15.1,,9.2,506.0,Consommation,114575,48,10.42,3,3,Non,10.92
+CLI00122,2004-04-25,22,M,Marié(e),Fonctionnaire,Hauts-de-France,19.7,41954.0,56.9,,Immobilier,144649,36,4.42,1,3,Oui,0.5
+CLI00054,2005-01-05,56,F,Célibataire,CDI,Normandie,19.0,55626.0,35.4,338.0,Consommation,64201,60,4.57,3,0,Oui,0.5
+CLI00249,1994-09-21,51,M,Marié(e),CDI,Île-de-France,29.3,106236.0,57.8,604.0,Personnel,53756,48,4.16,5,2,Oui,0.84
+CLI00289,1996-06-02,54,F,Divorcé(e),Fonctionnaire,Île-de-France,27.6,101524.0,47.2,674.0,Immobilier,18350,36,2.47,3,3,Oui,0.5
+CLI00086,2022-04-21,36,M,Divorcé(e),CDD,Normandie,1.7,88173.0,19.0,686.0,Personnel,138515,48,3.68,4,5,Oui,10.76
+CLI00081,2002-12-01,45,F,Marié(e),Retraité,PACA,21.1,112456.0,15.7,729.0,Auto,60318,120,5.11,5,0,Non,0.5
+CLI00002,2004-09-18,50,M,Divorcé(e),CDI,Normandie,19.3,90474.0,52.3,523.0,Consommation,141487,120,4.5,5,2,Non,8.61
+CLI00118,2001-01-06,61,F,Marié(e),Fonctionnaire,Occitanie,23.0,87724.0,35.0,700.0,Immobilier,102945,48,2.42,7,2,Non,20.47
+CLI00287,2011-03-18,62,M,,CDI,Nouvelle-Aquitaine,12.8,111789.0,11.2,607.0,Immobilier,60337,36,1.55,2,5,Oui,0.5
+CLI00133,1995-09-21,30,M,Marié(e),CDI,Grand Est,28.3,69745.0,61.6,442.0,Consommation,51240,120,9.74,5,1,Oui,5.24
+CLI00173,1997-12-02,17,M,Divorcé(e),Indépendant,Bretagne,26.1,106869.0,58.9,606.0,Consommation,108177,120,11.46,2,0,Non,0.5
+CLI00009,2013-03-17,44,F,Célibataire,Retraité,Bretagne,10.8,18384.0,18.6,522.0,Immobilier,93861,12,3.15,4,0,Oui,12.99
+CLI00019,2009-08-11,45,F,Marié(e),CDI,PACA,14.4,98642.0,14.7,634.0,Consommation,78340,120,4.31,1,4,,0.5
+CLI00297,1994-06-03,24,M,Marié(e),CDI,Auvergne-Rhône-Alpes,29.6,88792.0,13.9,385.0,Immobilier,56474,36,3.45,6,5,Non,18.84
+CLI00129,2008-09-17,47,M,Marié(e),CDD,Hauts-de-France,15.3,57749.0,62.4,493.0,Immobilier,46914,48,3.15,2,2,Oui,0.5
+CLI00231,2016-03-16,47,M,Marié(e),CDD,Île-de-France,7.8,118894.0,25.5,,Consommation,40367,48,7.8,3,3,Non,0.5
+CLI00180,2007-09-18,58,M,Marié(e),CDI,Auvergne-Rhône-Alpes,16.3,108825.0,20.6,392.0,Personnel,133177,24,4.23,2,3,Oui,0.5
+CLI00022,2001-06-01,59,M,Veuf/Veuve,CDD,Occitanie,22.6,41524.0,39.0,577.0,Immobilier,72728,48,2.69,4,1,Oui,2.27
+CLI00006,2009-02-10,42,F,Marié(e),Fonctionnaire,Nouvelle-Aquitaine,14.9,36017.0,14.6,532.0,Immobilier,13007,48,3.49,7,1,Oui,32.45
+CLI00058,2022-01-01,61,M,Marié(e),CDD,Normandie,2.0,37198.0,12.3,429.0,Immobilier,130733,60,3.04,7,4,Non,35.0
+CLI00259,2017-02-08,58,M,Célibataire,CDI,Île-de-France,6.9,54976.0,55.9,300.0,Consommation,40737,36,4.71,1,5,Oui,3.42
+CLI00203,1994-02-14,22,M,Célibataire,CDI,Bretagne,29.9,99449.0,60.7,536.0,Auto,71358,24,8.59,3,1,Non,0.5
+CLI00099,2020-09-14,56,M,Marié(e),Retraité,Nouvelle-Aquitaine,3.3,23569.0,28.2,685.0,Immobilier,32632,60,3.31,3,5,Oui,11.88
+CLI00090,2016-02-09,30,M,Marié(e),Retraité,Normandie,7.9,57811.0,55.9,826.0,Consommation,22368,84,9.47,3,1,Oui,0.5
+CLI00214,2016-11-27,59,M,Marié(e),Indépendant,Bretagne,7.1,21812.0,18.3,592.0,Consommation,108145,36,9.99,3,1,Oui,9.12
+CLI00189,1995-04-28,62,M,Célibataire,CDD,Grand Est,28.7,24168.0,34.2,,Consommation,90595,24,11.17,1,1,Non,0.5
+CLI00072,2007-09-18,52,F,Veuf/Veuve,CDD,Pays de la Loire,16.3,24949.0,34.1,826.0,Consommation,80683,60,6.12,7,5,Non,34.06
+CLI00232,2013-10-23,24,F,Marié(e),CDI,Pays de la Loire,10.2,22324.0,29.8,,Immobilier,104608,48,3.58,2,4,Oui,7.48
+CLI00068,1998-02-13,55,F,Divorcé(e),CDD,Auvergne-Rhône-Alpes,25.9,77494.0,28.2,752.0,Consommation,89291,60,3.85,5,0,Non,0.5
+CLI00128,1996-01-08,26,F,Marié(e),CDI,Occitanie,28.0,97252.0,28.5,402.0,Auto,142855,60,6.91,6,3,Oui,16.11
+CLI00144,1999-04-27,58,F,Divorcé(e),Fonctionnaire,Auvergne-Rhône-Alpes,24.7,37262.0,18.6,,Personnel,101731,24,8.31,4,4,,7.37
+CLI00071,2014-08-10,35,F,Célibataire,Retraité,Normandie,9.4,96587.0,17.7,556.0,Auto,25609,12,5.64,7,3,Oui,27.67
+CLI00278,2010-02-10,46,F,Célibataire,Sans emploi,Nouvelle-Aquitaine,13.9,26512.0,15.7,522.0,Professionnel,43890,48,5.51,7,1,Oui,35.0
+CLI00140,2019-09-15,60,M,Célibataire,CDD,Auvergne-Rhône-Alpes,4.3,23240.0,54.5,658.0,Immobilier,75480,120,2.51,7,5,Oui,35.0
+CLI00265,1996-07-09,37,F,Célibataire,Fonctionnaire,Normandie,27.5,38618.0,45.7,460.0,Personnel,26172,48,8.96,3,0,Non,0.5
+CLI00075,2015-07-05,35,F,Veuf/Veuve,CDI,Normandie,8.5,24941.0,22.8,823.0,Consommation,76315,48,10.38,7,2,Non,32.62
+CLI00158,2008-11-29,27,F,Marié(e),CDI,Hauts-de-France,15.1,46699.0,35.5,709.0,Personnel,43258,36,7.55,5,2,Non,8.8
+CLI00217,2019-03-16,55,F,Marié(e),CDI,Hauts-de-France,4.8,45285.0,38.5,680.0,Auto,121243,12,9.17,3,5,Oui,6.34
+CLI00283,2015-07-05,39,F,Divorcé(e),Fonctionnaire,PACA,8.5,97767.0,29.1,727.0,Auto,59912,120,8.15,1,0,Non,0.5
+CLI00204,2021-11-26,40,F,Célibataire,Fonctionnaire,Île-de-France,2.1,118776.0,45.6,829.0,Auto,52057,36,7.02,6,0,Oui,13.73
+CLI00040,2012-11-28,30,M,Marié(e),CDI,Occitanie,11.1,110193.0,61.0,759.0,Personnel,145518,24,9.39,7,4,Oui,28.27
+CLI00288,2006-05-31,57,F,Marié(e),Fonctionnaire,Île-de-France,17.6,60078.0,,635.0,Immobilier,115616,24,3.69,2,4,Non,0.5
+CLI00264,2001-10-25,40,F,Marié(e),CDI,Bretagne,22.2,19917.0,50.5,358.0,Professionnel,43709,24,9.2,3,5,Oui,10.11
+CLI00236,2006-08-13,28,F,Marié(e),CDI,Île-de-France,17.4,34389.0,11.4,309.0,Consommation,135282,12,10.96,3,0,Non,5.69
+CLI00039,2003-09-19,42,M,Célibataire,CDI,Pays de la Loire,20.3,63543.0,39.4,,Personnel,30053,12,8.42,6,1,Non,11.75
+CLI00117,2023-01-01,65,F,Célibataire,CDI,Nouvelle-Aquitaine,1.0,51434.0,,387.0,Consommation,44224,84,7.26,1,5,Oui,10.42
+CLI00098,2016-05-28,29,F,Marié(e),Indépendant,Île-de-France,7.6,32388.0,15.6,416.0,Immobilier,57329,48,3.49,2,2,Oui,6.45
+CLI00225,2006-01-05,37,M,Marié(e),CDI,Nouvelle-Aquitaine,18.0,94125.0,11.5,365.0,Auto,24063,48,6.88,2,3,Non,0.5
+CLI00176,2003-06-01,27,M,Marié(e),CDD,Normandie,20.6,,63.6,611.0,Personnel,125993,12,10.38,1,4,Oui,0.5
+CLI00023,1995-06-03,23,F,Célibataire,CDI,Hauts-de-France,28.6,87172.0,28.5,495.0,Immobilier,16246,84,2.05,7,5,Oui,27.93
+CLI00155,2003-06-01,49,M,Divorcé(e),Retraité,Île-de-France,20.6,100558.0,53.1,689.0,Immobilier,-500,24,1.96,6,3,Non,12.61
+CLI00160,2013-03-17,49,F,Marié(e),Sans emploi,Pays de la Loire,10.8,85661.0,32.7,426.0,Immobilier,124771,12,3.54,1,5,Oui,0.5
+CLI00139,2006-08-13,53,F,Marié(e),Sans emploi,Hauts-de-France,17.4,40574.0,51.9,,Consommation,108892,48,8.4,1,0,Oui,0.5
+CLI00290,2021-02-07,25,M,Divorcé(e),CDI,PACA,2.9,114573.0,8.2,307.0,Auto,29354,84,11.94,5,2,Non,16.84
+CLI00026,2006-08-13,33,F,Célibataire,Fonctionnaire,Nouvelle-Aquitaine,17.4,,37.4,623.0,Personnel,140090,12,10.93,1,1,Non,0.5
+CLI00014,2008-10-23,61,M,Marié(e),Indépendant,Occitanie,15.2,30763.0,35.6,713.0,Consommation,25611,48,8.17,1,3,Oui,0.5
+CLI00146,2017-05-28,60,F,Veuf/Veuve,CDI,Pays de la Loire,6.6,22432.0,32.0,383.0,Personnel,6759,84,6.87,2,1,,10.24
+CLI00194,2020-10-20,58,M,Célibataire,Fonctionnaire,Grand Est,3.2,24371.0,,416.0,Immobilier,92127,12,2.9,5,1,Non,26.54
+CLI00200,2020-03-15,58,M,Marié(e),CDI,Normandie,3.8,99264.0,28.3,,Consommation,132157,12,10.52,6,2,Oui,24.33
+CLI00059,1997-04-27,25,F,Marié(e),Retraité,Occitanie,26.7,37758.0,,383.0,Immobilier,76907,36,2.43,1,0,Oui,0.5
+CLI00226,2013-03-17,50,M,Célibataire,Fonctionnaire,Grand Est,10.8,31918.0,46.1,462.0,Personnel,72642,84,7.85,1,1,Non,0.5
+CLI00221,1998-01-07,37,M,Marié(e),Fonctionnaire,Bretagne,26.0,90303.0,50.2,383.0,Immobilier,135273,24,4.04,3,2,Oui,0.5
+CLI00065,2018-11-27,39,M,Divorcé(e),Retraité,PACA,5.1,55441.0,6.1,320.0,Immobilier,69772,24,4.44,5,4,Non,24.75
+CLI00252,2022-03-15,28,M,Divorcé(e),Fonctionnaire,Nouvelle-Aquitaine,1.8,48105.0,49.5,666.0,Immobilier,56226,120,3.39,3,1,Oui,5.92
+CLI00205,2001-10-25,23,F,Marié(e),Retraité,Pays de la Loire,22.2,78004.0,34.8,320.0,Immobilier,11150,60,3.17,5,5,Non,13.8
+CLI00053,2023-04-21,29,M,Marié(e),CDD,Normandie,0.7,42285.0,33.7,,Professionnel,24029,84,5.17,7,2,Non,35.0
+CLI00100,2018-02-08,56,F,Marié(e),CDI,Occitanie,5.9,87836.0,62.8,643.0,Immobilier,114945,84,1.99,3,5,Non,2.84
+CLI00035,1998-08-14,65,M,Marié(e),Sans emploi,Bretagne,25.4,75091.0,6.4,605.0,Personnel,125430,84,6.18,5,4,Non,9.61
+CLI00079,2017-10-21,37,M,Marié(e),CDD,Occitanie,6.2,93745.0,52.0,838.0,Consommation,81325,84,8.95,6,1,Non,10.9
+CLI00293,2018-08-09,42,m,,CDI,Hauts-de-France,5.4,,41.1,651.0,Personnel,91123,12,10.56,7,3,Oui,32.5
+CLI00121,2009-10-23,56,M,Célibataire,CDI,PACA,14.2,29314.0,12.6,609.0,Auto,68731,48,11.49,5,4,Oui,20.25
+CLI00185,2021-11-26,36,F,Marié(e),CDI,Pays de la Loire,2.1,74793.0,24.3,323.0,Consommation,68230,120,8.97,6,2,Oui,29.74
+CLI00294,2011-05-30,41,F,Marié(e),Fonctionnaire,Pays de la Loire,12.6,85444.0,6.4,657.0,Immobilier,25581,120,1.78,2,3,Oui,0.5
+CLI00168,2006-07-07,60,M,Célibataire,CDD,Normandie,17.5,100838.0,54.8,421.0,Immobilier,134948,60,4.16,6,1,Oui,18.46
+CLI00201,1996-01-08,53,M,Divorcé(e),CDI,Normandie,28.0,41275.0,14.8,545.0,Immobilier,126300,24,2.1,1,3,Non,0.5
+CLI00070,2022-05-27,57,F,Veuf/Veuve,CDD,PACA,1.6,83215.0,16.5,806.0,Personnel,139828,48,9.36,2,2,Non,0.5
+CLI00188,2013-01-03,45,F,Marié(e),CDI,Normandie,11.0,21596.0,11.8,663.0,Immobilier,44986,12,4.43,1,0,Non,0.5
+CLI00174,2006-11-30,24,F,Célibataire,Fonctionnaire,Auvergne-Rhône-Alpes,17.1,52674.0,51.9,,Auto,136026,84,9.21,3,1,Non,0.5
+CLI00029,2014-07-05,46,F,Marié(e),CDI,Pays de la Loire,9.5,74397.0,36.9,823.0,Consommation,46157,48,10.41,7,0,Oui,20.27
+CLI00136,2004-09-18,47,F,Célibataire,Fonctionnaire,Nouvelle-Aquitaine,19.3,41624.0,21.8,604.0,Immobilier,9757,120,3.95,5,4,Non,11.74
+CLI00132,2005-04-25,48,F,Marié(e),CDI,Bretagne,18.7,111229.0,44.5,421.0,Immobilier,24956,36,4.0,6,5,Non,16.66
+CLI00273,2012-01-04,57,F,Divorcé(e),CDI,Pays de la Loire,12.0,27865.0,51.8,425.0,Consommation,125900,120,11.63,4,3,Oui,15.33
+CLI00166,2011-01-04,49,M,Célibataire,CDD,Île-de-France,13.0,23122.0,29.7,600.0,Auto,70155,12,11.75,5,1,Non,19.3
+CLI00210,1998-10-26,53,F,Divorcé(e),CDI,Occitanie,25.2,52529.0,57.8,825.0,Auto,123865,84,8.36,4,0,Oui,0.5
+CLI00043,2014-01-03,25,F,Célibataire,CDI,Île-de-France,10.0,32489.0,23.8,332.0,Personnel,56356,48,10.92,1,3,Oui,6.8
+CLI00024,2013-09-16,42,F,Marié(e),CDD,Auvergne-Rhône-Alpes,10.3,28916.0,35.1,783.0,Auto,132796,60,7.27,3,3,Non,0.8
+CLI00092,2021-02-07,22,M,Marié(e),Fonctionnaire,Auvergne-Rhône-Alpes,2.9,103392.0,52.5,505.0,Personnel,32306,48,9.24,2,3,Oui,0.5
+CLI00279,2022-07-03,56,M,Divorcé(e),CDD,Pays de la Loire,1.5,19342.0,6.7,483.0,Auto,71017,48,4.32,5,5,Oui,33.66
+CLI00183,2014-09-16,65,M,Célibataire,CDI,Auvergne-Rhône-Alpes,9.3,113462.0,33.7,631.0,Professionnel,35678,36,4.62,5,0,Non,4.16
+CLI00088,2010-09-17,46,F,Marié(e),CDI,Bretagne,13.3,70329.0,15.4,835.0,Personnel,130885,12,3.98,2,4,,0.5
+CLI00042,2014-10-23,39,M,Marié(e),CDD,Île-de-France,9.2,25239.0,33.8,328.0,Immobilier,103723,12,3.76,7,5,Non,35.0
+CLI00101,1995-12-03,54,M,Célibataire,CDD,PACA,28.1,54586.0,19.9,694.0,Immobilier,60176,48,2.2,7,1,Non,23.02
+CLI00247,2010-08-11,44,M,Veuf/Veuve,Indépendant,Pays de la Loire,13.4,97239.0,21.7,503.0,Immobilier,133377,12,2.9,1,4,Non,0.5
+CLI00095,2021-10-20,45,F,Marié(e),Retraité,Île-de-France,2.2,73123.0,26.3,535.0,Immobilier,58028,120,2.68,7,4,Oui,35.0
+CLI00076,1995-01-08,44,F,Marié(e),Fonctionnaire,Nouvelle-Aquitaine,29.0,43934.0,30.8,570.0,Auto,82834,84,8.46,1,5,Oui,0.5
+CLI00032,2009-03-18,49,M,Divorcé(e),CDI,Auvergne-Rhône-Alpes,14.8,63106.0,17.7,773.0,Consommation,88122,120,6.92,1,4,Oui,0.5
+CLI00191,2009-04-24,60,F,Célibataire,CDI,Hauts-de-France,14.7,91794.0,36.2,451.0,Professionnel,69929,84,5.34,4,0,Non,0.5
+CLI00192,2009-01-04,23,M,Célibataire,Indépendant,Occitanie,15.0,100152.0,42.0,719.0,Immobilier,78506,84,4.1,2,2,Non,0.5
+CLI00094,2003-03-20,29,F,Célibataire,CDI,Île-de-France,20.8,37963.0,44.2,572.0,Consommation,65279,12,9.93,3,1,Oui,0.5
+CLI00046,2002-08-14,30,M,Marié(e),Indépendant,Pays de la Loire,21.4,61125.0,,837.0,Professionnel,71656,24,8.76,3,5,Oui,0.5
+CLI00162,2022-04-21,65,F,,CDI,Nouvelle-Aquitaine,1.7,34748.0,63.2,311.0,Consommation,-500,48,5.86,4,4,Oui,26.31
+CLI00109,2018-10-21,29,M,Divorcé(e),CDI,Île-de-France,5.2,24090.0,24.4,465.0,Immobilier,122718,48,2.76,5,3,Oui,27.83
+CLI00106,2002-01-06,49,M,Marié(e),CDI,Pays de la Loire,22.0,42214.0,45.9,637.0,Immobilier,27116,120,2.19,1,4,Oui,0.5
+CLI00150,2022-05-27,57,F,Marié(e),CDI,Occitanie,1.6,77399.0,31.6,682.0,Immobilier,98501,60,3.09,3,3,,3.52
+CLI00030,2017-11-27,48,M,Marié(e),CDI,Pays de la Loire,6.1,56765.0,48.3,700.0,Immobilier,59917,120,3.17,2,0,,0.5
+CLI00182,2012-01-04,63,M,Marié(e),CDI,Auvergne-Rhône-Alpes,12.0,68448.0,62.6,,Consommation,115904,24,5.88,6,1,Oui,19.58
+CLI00110,2020-01-02,33,M,Marié(e),CDI,Pays de la Loire,4.0,29637.0,55.1,843.0,Personnel,24256,84,6.52,4,0,Non,7.49
+CLI00164,1995-01-08,51,M,Célibataire,CDI,Nouvelle-Aquitaine,29.0,33034.0,52.0,823.0,Immobilier,43565,60,3.59,3,3,Non,0.5
+CLI00123,2022-02-07,56,M,Marié(e),Fonctionnaire,Île-de-France,1.9,75108.0,19.6,391.0,Consommation,13070,48,11.61,6,4,Oui,30.24
+CLI00028,2021-04-21,65,M,Marié(e),CDI,Hauts-de-France,2.7,31456.0,45.5,316.0,Personnel,72506,48,8.45,2,0,Oui,9.05
+CLI00105,2010-08-11,62,M,Célibataire,CDI,Nouvelle-Aquitaine,13.4,35144.0,39.9,619.0,Consommation,81589,48,7.8,6,4,Oui,27.84
+CLI00061,2006-05-31,27,F,Célibataire,Fonctionnaire,Normandie,17.6,62238.0,57.6,758.0,Consommation,69435,36,3.98,7,1,Non,24.33
+CLI00147,2015-05-29,36,M,Marié(e),CDI,Auvergne-Rhône-Alpes,8.6,113257.0,57.9,617.0,Professionnel,-500,12,6.02,5,4,Oui,11.77
+CLI00084,1994-12-03,62,F,,Fonctionnaire,Pays de la Loire,29.1,115239.0,43.0,326.0,Immobilier,81077,12,3.37,5,1,Oui,6.4
+CLI00235,2011-07-06,53,F,Marié(e),CDI,Île-de-France,12.5,56110.0,41.7,694.0,Professionnel,60029,60,8.31,6,2,Non,18.03
+CLI00284,2019-08-09,23,M,Marié(e),CDD,Normandie,4.4,115829.0,57.5,593.0,Immobilier,39008,36,3.49,3,3,Non,0.5
+CLI00195,2005-09-18,38,F,Célibataire,CDI,PACA,18.3,44069.0,11.6,811.0,Professionnel,118453,24,10.52,3,0,Oui,0.5
+CLI00244,2009-05-30,32,M,Célibataire,CDD,Nouvelle-Aquitaine,14.6,71441.0,53.7,583.0,Personnel,66268,84,8.99,4,3,Non,1.73
+CLI00126,2015-10-23,24,F,Divorcé(e),Fonctionnaire,Pays de la Loire,8.2,54668.0,41.8,524.0,Personnel,62761,36,8.62,5,2,Non,14.76
+CLI00167,2006-09-18,46,M,Célibataire,CDI,Île-de-France,17.3,36030.0,38.0,542.0,Consommation,57487,24,5.01,7,0,Oui,30.0
+CLI00241,2003-06-01,39,M,Divorcé(e),Retraité,PACA,20.6,18117.0,31.0,575.0,Consommation,79532,120,3.87,5,3,Non,20.66
+CLI00254,1996-06-02,47,F,Marié(e),Indépendant,Nouvelle-Aquitaine,27.6,82323.0,41.9,633.0,Professionnel,34402,120,5.59,3,5,Non,0.5
+CLI00228,2009-04-24,41,F,Marié(e),CDI,Bretagne,14.7,45446.0,62.9,560.0,Professionnel,40954,60,6.75,1,1,Non,0.5
+CLI00282,2005-09-18,39,F,Célibataire,Fonctionnaire,Normandie,18.3,111070.0,28.3,477.0,Immobilier,20048,24,2.32,2,3,Oui,0.5
+CLI00190,2003-07-08,33,M,Veuf/Veuve,CDI,Normandie,20.5,25561.0,60.2,831.0,Professionnel,106358,84,6.76,3,4,Non,0.5
+CLI00152,2013-08-10,53,M,Célibataire,Fonctionnaire,PACA,10.4,68428.0,7.3,758.0,Immobilier,138789,60,3.22,6,5,Non,20.0
+CLI00001,2008-07-06,60,F,Veuf/Veuve,CDI,Bretagne,15.5,24970.0,20.4,594.0,Consommation,129450,60,10.13,1,1,Non,0.5
+CLI00268,2011-11-29,45,M,Marié(e),CDI,Normandie,12.1,38128.0,33.2,789.0,Immobilier,62492,48,4.25,3,5,Oui,0.5
+CLI00256,2003-01-06,22,F,Marié(e),Indépendant,Grand Est,21.0,76067.0,27.5,592.0,Personnel,52924,36,11.91,3,4,Oui,0.5
+CLI00277,2015-10-23,56,M,Marié(e),CDD,Auvergne-Rhône-Alpes,8.2,52387.0,5.1,338.0,Immobilier,126789,24,3.53,4,0,Oui,9.67
+CLI00263,2012-03-17,56,F,Veuf/Veuve,CDD,Auvergne-Rhône-Alpes,11.8,19828.0,50.0,784.0,Immobilier,106371,48,3.0,1,1,Oui,0.5
+CLI00255,2016-01-03,23,F,Célibataire,CDI,Bretagne,8.0,109922.0,,810.0,Immobilier,9263,12,2.02,2,3,Non,0.5
+CLI00300,2011-11-29,33,M,Marié(e),Indépendant,Île-de-France,12.1,91698.0,63.9,610.0,Immobilier,74626,84,3.69,4,5,Non,2.08
+CLI00089,2001-08-14,28,F,Veuf/Veuve,CDI,Hauts-de-France,22.4,,44.3,677.0,Auto,114777,84,10.02,7,4,Oui,27.89
+CLI00078,1998-09-20,42,M,Marié(e),CDD,Auvergne-Rhône-Alpes,25.3,79886.0,9.5,507.0,Personnel,19153,48,6.6,5,1,Oui,3.22
+CLI00124,1995-07-10,58,F,,Indépendant,Nouvelle-Aquitaine,28.5,105044.0,44.1,541.0,Immobilier,131161,24,2.33,1,3,Non,0.5
+CLI00096,1996-07-09,32,M,Marié(e),CDI,  Occitanie  ,27.5,110705.0,36.5,820.0,Consommation,109263,48,7.0,5,3,,0.5
+CLI00295,2000-08-13,29,M,Célibataire,CDD,Île-de-France,23.4,26567.0,24.3,816.0,Immobilier,93929,60,3.99,4,0,Oui,0.85
+CLI00012,1998-01-07,45,F,Célibataire,CDI,Occitanie,26.0,65926.0,25.8,625.0,Immobilier,136149,24,3.94,7,0,Oui,22.84
+CLI00115,1994-08-15,58,M,Marié(e),Fonctionnaire,Occitanie,29.4,101807.0,27.3,691.0,Immobilier,61264,12,3.25,2,4,Oui,0.5
+CLI00258,2018-08-09,26,F,Marié(e),Retraité,Grand Est,5.4,63587.0,36.4,581.0,Professionnel,147736,36,11.57,5,2,Oui,14.93
+CLI00220,2006-05-31,32,M,Marié(e),Sans emploi,Nouvelle-Aquitaine,17.6,89158.0,24.2,530.0,Personnel,116496,48,4.89,1,0,Oui,0.5
+CLI00253,1996-03-21,37,F,Marié(e),CDI,Normandie,27.8,60101.0,53.9,550.0,Personnel,86182,48,7.91,2,2,Non,0.5
+CLI00286,1995-10-27,37,M,Célibataire,CDI,Hauts-de-France,28.2,54258.0,48.4,683.0,Immobilier,88559,36,3.28,7,2,Oui,23.2
+CLI00262,2002-12-01,62,M,Marié(e),CDI,Bretagne,21.1,60533.0,5.7,497.0,Immobilier,133575,36,3.19,4,3,Non,6.66
+CLI00179,2012-05-29,30,M,Divorcé(e),Fonctionnaire,Occitanie,11.6,28267.0,20.3,744.0,Consommation,31399,60,11.85,1,2,Oui,0.5
+CLI00020,2015-04-23,65,M,Veuf/Veuve,CDI,Normandie,8.7,68612.0,52.2,521.0,Consommation,107974,36,6.18,2,4,Non,0.5
+CLI00170,2019-09-15,22,F,Marié(e),CDI,Nouvelle-Aquitaine,4.3,73658.0,30.5,655.0,Immobilier,45806,120,2.39,3,0,Oui,0.5
+CLI00240,2001-07-08,60,F,Marié(e),Fonctionnaire,PACA,22.5,105886.0,57.6,432.0,Immobilier,131678,12,4.05,6,0,Oui,11.74
+CLI00161,1995-12-03,65,M,Célibataire,Indépendant,Île-de-France,28.1,62247.0,64.5,313.0,Immobilier,43000,60,1.67,7,5,Non,35.0
+CLI00074,1999-02-13,29,M,Marié(e),CDI,Île-de-France,24.9,,42.2,462.0,Auto,135330,60,11.13,7,2,Oui,22.9
+CLI00018,1994-03-22,23,F,Divorcé(e),Sans emploi,Grand Est,29.8,27860.0,57.4,711.0,Consommation,148026,36,5.54,6,5,Non,22.42
+CLI00063,2003-09-19,25,M,Célibataire,Fonctionnaire,PACA,20.3,57764.0,56.1,681.0,Auto,134038,36,8.48,4,2,Oui,1.7
+CLI00250,2007-02-11,63,M,Marié(e),CDI,Grand Est,16.9,115579.0,44.5,796.0,Immobilier,45809,36,2.28,6,4,Oui,11.85
+CLI00229,2012-04-23,57,F,Célibataire,CDI,Occitanie,11.7,31046.0,34.3,748.0,Consommation,32856,120,10.63,5,4,Non,14.55
+CLI00239,1999-03-21,61,M,Marié(e),CDI,Normandie,24.8,,39.6,556.0,Immobilier,60961,24,3.32,2,5,Oui,0.5
+CLI00230,2002-09-19,40,F,Marié(e),Sans emploi,Pays de la Loire,21.3,42818.0,14.0,723.0,Consommation,7573,84,4.74,3,5,Non,0.5
+CLI00048,2014-10-23,23,M,Célibataire,Indépendant,Nouvelle-Aquitaine,9.2,112074.0,24.1,729.0,Consommation,69484,60,3.72,5,1,Oui,3.52
+CLI00251,2014-01-03,56,F,Marié(e),Indépendant,PACA,10.0,24469.0,23.7,455.0,Auto,21725,84,4.58,5,5,Non,25.63
+CLI00080,2011-05-30,39,M,Célibataire,CDD,Île-de-France,12.6,101251.0,20.9,359.0,Immobilier,149071,120,3.56,1,5,Non,0.5
+CLI00291,1997-08-14,54,M,Célibataire,CDI,PACA,26.4,30219.0,34.2,640.0,Immobilier,50186,12,3.17,6,5,Non,22.21
+CLI00021,1997-06-02,51,F,Marié(e),CDI,Hauts-de-France,26.6,41574.0,,336.0,Auto,145256,12,4.32,1,0,Non,0.5
+CLI00141,1999-08-14,53,M,Célibataire,CDI,PACA,24.4,61221.0,34.7,522.0,Auto,51163,120,10.33,1,2,Oui,0.5
+CLI00193,2021-01-01,24,M,Célibataire,CDI,Île-de-France,3.0,44734.0,14.4,549.0,Consommation,39911,24,3.91,1,3,Non,3.27
+CLI00131,2003-04-26,60,F,Célibataire,CDI,Île-de-France,20.7,36777.0,,389.0,Auto,72526,12,6.83,2,3,,0.5
+CLI00216,1997-03-21,26,F,Célibataire,CDI,Occitanie,26.8,76656.0,49.9,801.0,Immobilier,107870,120,4.1,3,1,Oui,0.5
+CLI00245,2021-02-07,49,M,Célibataire,Retraité,Normandie,2.9,18846.0,49.5,420.0,Personnel,36653,36,3.89,5,1,Non,27.47
+CLI00060,2022-09-14,23,M,Célibataire,CDI,Nouvelle-Aquitaine,1.3,,61.2,,Immobilier,133876,60,3.22,6,3,Non,35.0
+CLI00222,1997-07-09,54,M,Veuf/Veuve,Sans emploi,Pays de la Loire,26.5,45139.0,21.2,429.0,Immobilier,143155,120,2.47,1,3,Oui,0.5
+CLI00177,2001-09-19,29,M,Marié(e),CDD,Pays de la Loire,22.3,91688.0,45.0,358.0,Consommation,131944,12,11.58,2,3,Non,0.5
+CLI00056,2021-05-27,38,M,Divorcé(e),Retraité,Grand Est,2.6,106464.0,9.8,456.0,Immobilier,107916,12,4.03,3,5,Oui,8.1
+CLI00292,2007-03-19,35,F,Marié(e),CDI,Pays de la Loire,16.8,18235.0,41.0,428.0,Immobilier,33145,48,2.53,7,4,Oui,35.0
+CLI00255,2016-01-03,23,F,Célibataire,CDI,Bretagne,8.0,109922.0,,810.0,Immobilier,9263,12,2.02,2,3,Non,0.5
+CLI00198,1995-08-15,49,F,Célibataire,CDI,Nouvelle-Aquitaine,28.4,91479.0,27.6,594.0,Personnel,124235,24,10.3,2,5,Non,0.5
+CLI00069,2016-02-09,31,F,Célibataire,Sans emploi,Normandie,7.9,99317.0,38.9,686.0,Immobilier,106195,60,2.54,3,0,Non,0.5
+CLI00211,1997-12-02,25,M,Veuf/Veuve,Indépendant,PACA,26.1,93703.0,20.5,633.0,Consommation,144777,48,5.07,6,1,Non,8.17
+CLI00233,2010-09-17,40,M,Divorcé(e),CDD,  Pays de la Loire  ,13.3,94323.0,50.5,602.0,Consommation,65774,84,4.1,4,0,Oui,0.5
+CLI00202,1994-10-27,54,M,Marié(e),Fonctionnaire,Bretagne,29.2,90274.0,21.4,567.0,Consommation,91925,24,10.17,3,2,Non,0.5
+CLI00169,2001-12-01,54,M,Divorcé(e),Indépendant,Bretagne,22.1,102717.0,9.1,446.0,Auto,17342,48,3.84,5,1,Oui,4.26
+CLI00186,1995-03-22,53,M,Célibataire,Fonctionnaire,Nouvelle-Aquitaine,28.8,65915.0,12.5,703.0,Auto,79055,84,6.74,7,3,Oui,23.32
+CLI00036,1996-02-14,24,F,Célibataire,CDD,Nouvelle-Aquitaine,27.9,39949.0,14.2,569.0,Consommation,76324,48,4.63,6,0,Oui,18.25
+CLI00130,2007-08-13,35,M,Marié(e),CDI,Grand Est,16.4,,13.0,465.0,Immobilier,132738,24,1.65,4,1,Non,7.4
